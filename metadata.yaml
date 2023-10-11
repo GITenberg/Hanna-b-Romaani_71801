@@ -5,6 +5,9 @@ contributor:
     agent_name: Hertta S.
     gutenberg_agent_id: '56403'
     url: http://www.gutenberg.org/2009/agents/56403
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Suttner, Bertha von
@@ -23,6 +26,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Bertha_von_Suttner
     - https://en.wikipedia.org/wiki/Bertha_von_Suttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71801#Hanna-b-Romaani
 gutenberg_issued: '2023-10-04'
 identifiers:
   gutenberg: '71801'
